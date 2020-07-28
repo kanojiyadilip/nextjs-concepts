@@ -8,8 +8,12 @@
     "start": "next start"
   },
   "dependencies": {
+    "fs": "0.0.1-security",
+    "js-beautify": "^1.11.0",
     "next": "9.4.4",
+    "path": "^0.12.7",
     "react": "16.13.1",
-    "react-dom": "16.13.1"
+    "react-dom": "16.13.1",
+    "react-router-dom": "^5.2.0"
   }
 }
